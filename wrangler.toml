@@ -6,4 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "e2efe6b623d44d18b889eb64659ed8e6"
-# 触发重新部署：刷新边缘节点版本缓存
+# 触发重新部署：使 ADMIN 环境变量生效
